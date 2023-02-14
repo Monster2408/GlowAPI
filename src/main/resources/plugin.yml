@@ -1,0 +1,3 @@
+name: GlowAPI
+version: '${project.version}'
+main: xyz.mlserver.glowapi.GlowPlugin
