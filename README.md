@@ -1,4 +1,4 @@
-# Minecraft用
+# Minecraft用(v1.19+)
 
 [![](https://jitpack.io/v/xyz.mlserver/GlowAPI.svg)](https://jitpack.io/#xyz.mlserver/GlowAPI)
 [![Twitter](https://badgen.net/twitter/follow/monster_2408?icon=twitter)](https://twitter.com/monster_2408)
@@ -43,3 +43,5 @@ mvn javadoc:javadoc
 <link rel="icon" type="image/png" href="https://docs.mlserver.jp/img/android-touch-icon.png" sizes="192x192">
 </head>
 ```
+### 参考
+https://github.com/Sitrica/GlowingAPI
